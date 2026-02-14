@@ -1,2 +1,2 @@
 # IELTS-meter
-![](Assets/ieltsdemo.gif)
+![Demo](Assets/ieltsdemo.gif)
